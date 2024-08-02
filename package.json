@@ -1,0 +1,15 @@
+{
+  "name": "budgy",
+  "version": "1.0.0",
+  "description": "hardcore budgetizer",
+  "main": "budget.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "dabin.lamming",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
